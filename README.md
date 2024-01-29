@@ -4,7 +4,7 @@
 
 Hey, I'm Talha, a passionate Analyst Software Engineer with nearly 3 years of experience in the dynamic world of software development. I thrive on building innovative solutions that make a real impact.
 
-[![Your Image Here](path/to/your/image.png)](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 ## Professional Journey
 
 ### 🚀 Ibex (www.Ibex.co)
