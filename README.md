@@ -14,7 +14,7 @@ Hi there! I'm Talha, an Analyst Software Engineer with almost 3 years of experie
 - Identified and fixed bugs in production issues.
 - Maintained effective communication with clients.
 
-### CureMD (www.Ibex.co)
+### CureMD (www.curemd.co)
 **Analyst Software Engineer | July 2021 - July 2022**
 - Developed Electronic Health Record (EHR) products using C#, .NET Framework, and Microsoft SQL.
 - Shifted existing code to new frameworks, developed modules, and conducted code refactoring.
@@ -30,9 +30,8 @@ Hi there! I'm Talha, an Analyst Software Engineer with almost 3 years of experie
 ## Contact Information
 
 **How to reach me:**
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: your.email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/muhammad-talha-arshad-973b7a165/)(#)
+- Email: talhaarshad469@gmail.com
 
 Looking forward to connecting and collaborating on exciting projects! ⚡
 
