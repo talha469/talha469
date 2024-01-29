@@ -27,8 +27,7 @@ Hey, I'm Talha, a passionate Software Engineer with nearly 3 years of experience
 ## Let's Connect! 🤝
 
 **How to reach me:**
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: your.email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- LinkedIn: https://www.linkedin.com/in/muhammad-talha-arshad-973b7a165/
+- Email: talhaarshad469@gmail.com
 
 Excited about coding, problem-solving, and creating awesome things. Let's collaborate on something amazing! ⚡
