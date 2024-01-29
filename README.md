@@ -3,7 +3,7 @@
 ## About Me
 
 Hey, I'm Talha, a passionate Analyst Software Engineer with nearly 3 years of experience in the dynamic world of software development. I thrive on building innovative solutions that make a real impact.
-https://images.app.goo.gl/eFTBAqC3Ucycb4XM8
+![Your GIPHY Image](https://images.app.goo.gl/eFTBAqC3Ucycb4XM8)
 
 ## Professional Journey
 
