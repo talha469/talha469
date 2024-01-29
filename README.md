@@ -3,8 +3,8 @@
 ## About Me
 
 Hey, I'm Talha, a passionate Analyst Software Engineer with nearly 3 years of experience in the dynamic world of software development. I thrive on building innovative solutions that make a real impact.
+https://images.app.goo.gl/eFTBAqC3Ucycb4XM8
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 ## Professional Journey
 
 ### 🚀 Ibex (www.Ibex.co)
