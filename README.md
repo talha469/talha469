@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey, I'm Talha, a passionate Analyst Software Engineer with nearly 3 years of experience in the dynamic world of software development. I thrive on building innovative solutions that make a real impact.
+Hey, I'm Talha, a passionate Software Engineer with nearly 3 years of experience in the dynamic world of software development. I thrive on building innovative solutions that make a real impact.
 
 ## Professional Journey
 
