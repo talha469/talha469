@@ -5,7 +5,7 @@ Hi 👋 My name is Muhammad Talha Arshad
 * ✉️  You can contact me at [talhaarshad469@gmail.com](mailto:talhaarshad469@gmail.com)
 * 🚀  I'm currently working on [Del dios Motor Club](http://deldiosmotorclub.com/)
 * 🧠  I'm learning .NET Core
-* ⚡  Chai Tastes way better than cofee ! Change my mind
+* ⚡  Chai Tastes way better than coffee ! Change my mind
 
 ### Skills
 
