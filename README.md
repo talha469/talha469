@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Talha Arshad
 * 🌍  I'm based in Finland
 * ✉️  You can contact me at [talhaarshad469@gmail.com](mailto:talhaarshad469@gmail.com)
 * 🚀  I'm currently working on [Del dios Motor Club](http://deldiosmotorclub.com/)
-* 🧠  I'm learning .NET Core
+* 🧠  I'm learning .NET Core, C#, MSSQL, Software Architecture, Azure
 * ⚡  Chai tastes way better than coffee ! Change my mind
 
 ### Skills
