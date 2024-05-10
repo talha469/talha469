@@ -6,7 +6,7 @@ Hi 👋 My name is Muhammad Talha Arshad
 * 🚀  I'm currently working on [Streamingly](http://streamingly.net/) as a CTO
 * 🚀  I'm currently working on [Rapid Launchers](http://rapidlaunchers.com/) as a Founder
 * 🧠  I'm learning .NET Core, C#, MSSQL, Software Architecture, Azure
-* ⚡  Chai tastes way better than coffee ! Change my mind
+* ⚡  Let's try it out!
 
 ### Skills
 
