@@ -1,4 +1,4 @@
-Hi 👋 My name is Muhammad Talha Arshad
+Hi 🚴 My name is Muhammad Talha Arshad
 ======================================
 
 * 🌍  I'm based in Finland
