@@ -9,56 +9,38 @@ Hi 🚴 My name is Muhammad Talha Arshad
 * ⚡  Let's try it out!
 
 ### Skills
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Custom Images with Rounded Corners</title>
-<style>
-  .custom-image {
-    width: 72px;
-    height: 72px;
-    border-radius: 12px; /* Adjust this value for more or less rounded corners */
-    object-fit: cover;
-  }
-</style>
-</head>
-<body>
 <p align="left">
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="custom_image_url1" class="custom-image" alt="Custom Image 1" />
+  <img src="custom_image_url1" alt="Custom Image 1" style="width: 72px; height: 72px; border-radius: 12px; object-fit: cover;" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="custom_image_url2" class="custom-image" alt="Custom Image 2" />
+  <img src="custom_image_url2" alt="Custom Image 2" style="width: 72px; height: 72px; border-radius: 12px; object-fit: cover;" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="custom_image_url3" class="custom-image" alt="Custom Image 3" />
+  <img src="custom_image_url3" alt="Custom Image 3" style="width: 72px; height: 72px; border-radius: 12px; object-fit: cover;" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="custom_image_url4" class="custom-image" alt="Custom Image 4" />
+  <img src="custom_image_url4" alt="Custom Image 4" style="width: 72px; height: 72px; border-radius: 12px; object-fit: cover;" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="custom_image_url5" class="custom-image" alt="Custom Image 5" />
+  <img src="custom_image_url5" alt="Custom Image 5" style="width: 72px; height: 72px; border-radius: 12px; object-fit: cover;" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="custom_image_url6" class="custom-image" alt="Custom Image 6" />
+  <img src="custom_image_url6" alt="Custom Image 6" style="width: 72px; height: 72px; border-radius: 12px; object-fit: cover;" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="custom_image_url7" class="custom-image" alt="Custom Image 7" />
+  <img src="custom_image_url7" alt="Custom Image 7" style="width: 72px; height: 72px; border-radius: 12px; object-fit: cover;" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="custom_image_url8" class="custom-image" alt="Custom Image 8" />
+  <img src="custom_image_url8" alt="Custom Image 8" style="width: 72px; height: 72px; border-radius: 12px; object-fit: cover;" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="custom_image_url9" class="custom-image" alt="Custom Image 9" />
+  <img src="custom_image_url9" alt="Custom Image 9" style="width: 72px; height: 72px; border-radius: 12px; object-fit: cover;" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="custom_image_url10" class="custom-image" alt="Custom Image 10" />
+  <img src="custom_image_url10" alt="Custom Image 10" style="width: 72px; height: 72px; border-radius: 12px; object-fit: cover;" />
 </a>
 </p>
-</body>
-</html>
 
 
 
