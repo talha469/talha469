@@ -9,63 +9,56 @@ Hi 🚴 My name is Muhammad Talha Arshad
 * ⚡  Let's try it out!
 
 ### Skills
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Custom Images with Rounded Corners</title>
+<style>
+  .custom-image {
+    width: 72px;
+    height: 72px;
+    border-radius: 12px; /* Adjust this value for more or less rounded corners */
+    object-fit: cover;
+  }
+</style>
+</head>
+<body>
 <p align="left">
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="72" height="72" alt="C#" />
+  <img src="custom_image_url1" class="custom-image" alt="Custom Image 1" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="72" height="72" alt="Git" />
+  <img src="custom_image_url2" class="custom-image" alt="Custom Image 2" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="72" height="72" alt="JavaScript" />
+  <img src="custom_image_url3" class="custom-image" alt="Custom Image 3" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="72" height="72" alt="Java" />
+  <img src="custom_image_url4" class="custom-image" alt="Custom Image 4" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="72" height="72" alt="Python" />
+  <img src="custom_image_url5" class="custom-image" alt="Custom Image 5" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="72" height="72" alt="HTML5" />
+  <img src="custom_image_url6" class="custom-image" alt="Custom Image 6" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="72" height="72" alt="React" />
+  <img src="custom_image_url7" class="custom-image" alt="Custom Image 7" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="72" height="72" alt="CSS3" />
+  <img src="custom_image_url8" class="custom-image" alt="Custom Image 8" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="72" height="72" alt="Bootstrap" />
+  <img src="custom_image_url9" class="custom-image" alt="Custom Image 9" />
 </a>
 <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="72" height="72" alt="Fast API" />
-</a>
-<a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="72" height="72" alt="GraphQL" />
-</a>
-<a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="72" height="72" alt="MongoDB" />
-</a>
-<a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="72" height="72" alt="PostgreSQL" />
-</a>
-<a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="72" height="72" alt=".NET" />
-</a>
-<a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="72" height="72" alt="Amazon Web Services" />
-</a>
-<a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="72" height="72" alt="Docker" />
-</a>
-<a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="72" height="72" alt="Figma" />
-</a>
-<a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="72" height="72" alt="Google Cloud" />
+  <img src="custom_image_url10" class="custom-image" alt="Custom Image 10" />
 </a>
 </p>
+</body>
+</html>
 
 
 
