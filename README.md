@@ -9,14 +9,17 @@ Hi 🚴 My name is Muhammad Talha Arshad
 * ⚡  Let's try it out!
 
 ### Skills
-<p>
-  <a href="https://github.com/talha469" target="_blank" rel="noreferrer">
-    <img src="https://github.com/talha469/talha469/blob/main/images.png?raw=true" alt="Custom Image 1" style="width: 140px; height: 40px; border-radius: 12px; object-fit: cover;" />
-  </a>
-  <a href="https://github.com/talha469/Documentation/tree/main/Azure" target="_blank" rel="noreferrer"> 📑 Documentation</a> | 
-  <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer"> 🌐 Live Demo</a> | 
-  <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer"> 🧾 Certifications</a>
-</p>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 8px; text-align: center;">
+  <p>
+    <a href="https://github.com/talha469" target="_blank" rel="noreferrer">
+      <img src="https://github.com/talha469/talha469/blob/main/images.png?raw=true" alt="Custom Image 1" style="width: 140px; height: 40px; border-radius: 12px; object-fit: cover;" />
+    </a>
+    <a href="https://github.com/talha469/Documentation/tree/main/Azure" target="_blank" rel="noreferrer"> 📑 Documentation</a> | 
+    <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer"> 🌐 Live Demo</a> | 
+    <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer"> 🧾 Certifications</a>
+  </p>
+</div>
+
   
 <p>
   <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
