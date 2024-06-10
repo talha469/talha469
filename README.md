@@ -83,7 +83,8 @@ Hi 🚴 My name is Muhammad Talha Arshad
 </a>
 </p>
 
-
+### Certificates and Trainings
+======================================
 
 ### Socials
 
