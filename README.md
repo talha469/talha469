@@ -10,7 +10,7 @@ Hi 🚴 My name is Muhammad Talha Arshad
 
 ### Skills
 <div style="text-align: center;">
-<p align="left">
+<p>
   <a href="https://github.com/talha469" target="_blank" rel="noreferrer">
     <img src="https://github.com/talha469/talha469/blob/main/images.png?raw=true" alt="Custom Image 1" style="width: 140px; height: 40px; border-radius: 12px; object-fit: cover;" />
   </a>
