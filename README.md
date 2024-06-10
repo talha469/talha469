@@ -16,6 +16,11 @@ Hi 🚴 My name is Muhammad Talha Arshad
   <p align="left">
 <a href="https://github.com/talha469/Documentation/tree/main/Azure" target="_blank" rel="noreferrer">Documentation</a> | <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer">Live Demo</a> | <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer">Certifications</a>
 </p>
+<a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*y-8NaBH83BMBjuzDj40SVw.jpeg" alt="Custom Image 1" style="width: 140px; height: 40px; border-radius: 12px; object-fit: cover;" />
+</a>
+<a href="https://github.com/talha469/Documentation/tree/main/Kafka" target="_blank" rel="noreferrer">Documentation</a> | <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer">Live Demo</a> | <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer">Certifications</a>
+</p>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
 </a>     
