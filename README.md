@@ -21,7 +21,7 @@ Hi 🚴 My name is Muhammad Talha Arshad
   
 <p>
   <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*y-8NaBH83BMBjuzDj40SVw.jpeg" alt="Custom Image 1" style="width: 140px; height: 80px; border-radius: 12px; object-fit: cover;" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*y-8NaBH83BMBjuzDj40SVw.jpeg" alt="Custom Image 1" style="width: 60px; height: 20px; border-radius: 12px; object-fit: cover;" />
   </a>
   <a href="https://github.com/your-repository/documentation-link" target="_blank" rel="noreferrer"> 📑 Documentation</a> | 
   <a href="https://github.com/your-repository/demo-link" target="_blank" rel="noreferrer"> 🌐 Live Demo</a>
