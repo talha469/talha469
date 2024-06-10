@@ -10,22 +10,21 @@ Hi 🚴 My name is Muhammad Talha Arshad
 
 ### Skills
 <p align="left">
-<p>
   <a href="https://github.com/talha469" target="_blank" rel="noreferrer">
     <img src="https://github.com/talha469/talha469/blob/main/images.png?raw=true" alt="Custom Image 1" style="width: 140px; height: 40px; border-radius: 12px; object-fit: cover;" />
   </a>
-  <a href="https://github.com/talha469/Documentation/tree/main/Azure" target="_blank" rel="noreferrer">Documentation</a> | 
-  <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer">Live Demo</a> | 
-  <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer">Certifications</a>
+  <a href="https://github.com/talha469/Documentation/tree/main/Azure" target="_blank" rel="noreferrer"> 📑 Documentation</a> | 
+  <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer"> 🌐 Live Demo</a> | 
+  <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer"> 🧾 Certifications</a>
 </p>
 <p>
   <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*y-8NaBH83BMBjuzDj40SVw.jpeg" alt="Custom Image 1" style="width: 140px; height: 80px; border-radius: 12px; object-fit: cover;" />
   </a>
-  <a href="https://github.com/your-repository/documentation-link" target="_blank" rel="noreferrer">Documentation</a> | 
-  <a href="https://github.com/your-repository/demo-link" target="_blank" rel="noreferrer">Live Demo</a> | 
-  <a href="https://github.com/your-repository/certifications-link" target="_blank" rel="noreferrer">Certifications</a>
-</p>
+  <a href="https://github.com/your-repository/documentation-link" target="_blank" rel="noreferrer"> 📑 Documentation</a> | 
+  <a href="https://github.com/your-repository/demo-link" target="_blank" rel="noreferrer"> 🌐 Live Demo</a> | 
+  <a href="https://github.com/your-repository/certifications-link" target="_blank" rel="noreferrer"> 🧾 Certifications</a>
+
 
 <a href="https://github.com/talha469/Documentation/tree/main/Kafka" target="_blank" rel="noreferrer">Documentation</a> | <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer">Live Demo</a> | <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer">Certifications</a>
 </p>
