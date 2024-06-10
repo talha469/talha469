@@ -19,12 +19,13 @@ Hi 🚴 My name is Muhammad Talha Arshad
     <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer"> 🧾 Certifications</a>
   </p>
 </div>
-> ![Custom Image 1](https://github.com/talha469/talha469/blob/main/images.png?raw=true)
-> 
-> [📑 Documentation](https://github.com/talha469/Documentation/tree/main/Azure) | 
-> [🌐 Live Demo](https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md) | 
-> [🧾 Certifications](https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md)
-
+> <div style="background-color: #f0f0f0; padding: 10px; border-radius: 8px; text-align: center;">
+>
+> ![Custom Image 1](https://github.com/talha469/talha469/blob/main/images.png?raw=true)  
+>
+> [📑 Documentation](https://github.com/talha469/Documentation/tree/main/Azure) | [🌐 Live Demo](https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md) | [🧾 Certifications](https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md)
+>
+> </div>
 
   
 <p>
