@@ -16,7 +16,6 @@ Hi 🚴 My name is Muhammad Talha Arshad
     <a href="https://github.com/talha469/Documentation/tree/main/Azure" target="_blank" rel="noreferrer"> 📑 Documentation</a> | 
     <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer"> 🌐 Live Demo</a> | 
     <a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer"> 🧾 Certifications</a>
-    [Click Here](https://example.com) <!-- Basic Text Link -->
 
   </p>
 
