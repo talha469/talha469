@@ -5,7 +5,7 @@ Hi 🚴 My name is Muhammad Talha Arshad
 * ✉️  You can contact me at [talha@rapidlaunchers.com](mailto:talha@rapidlaunchers.com)
 * 👨‍💻  I'm currently working on [Streamingly](http://streamingly.net/) as a CTO
 * 🚀  I'm currently working on [Rapid Launchers](http://rapidlaunchers.com/) as a Founder
-* 🧠  I'm learning .NET Core, C#, MSSQL, Software Architecture, Azure
+* 🧠  I'm learning Software Architecture
 * ⚡  Let's try it out!
 
 ### Skills
