@@ -43,7 +43,7 @@ SonarQube
   <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
     <img src="https://ollama.com/public/blog/meta-ollama-llama3.png" alt="Custom Image 1" style="width: 80px; height: 40px; border-radius: 12px; object-fit: cover;" />
   </a>
-   <a href="https://github.com/talha469/Documentation/tree/main/SonarQube" target="_blank" rel="noreferrer"> 📑 Setup Guide</a> | 
+   <a href="https://github.com/talha469/Documentation/tree/main/Llama3" target="_blank" rel="noreferrer"> 📑 Setup Guide</a> | 
   <a href="https://github.com/your-repository/demo-link" target="_blank" rel="noreferrer"> 🌐 Live Demo</a>
 </p>
 
