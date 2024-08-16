@@ -21,7 +21,7 @@ Microsoft Azure
 
   Apache Kafka
 <p>
-  <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
+  <a href="https://github.com/talha469" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*y-8NaBH83BMBjuzDj40SVw.jpeg" alt="Custom Image 1" style="width: 80px; height: 40px; border-radius: 12px; object-fit: cover;" />
   </a>
   <a href="https://github.com/your-repository/documentation-link" target="_blank" rel="noreferrer"> 📑 Documentation</a> | 
@@ -31,7 +31,7 @@ Microsoft Azure
 
 SonarQube
 <p>
-  <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
+  <a href="https://github.com/talha469" target="_blank" rel="noreferrer">
     <img src="https://lh3.googleusercontent.com/Gzn87UteQMOjYLVJd5MzPtve0lVx2UZEfzuWUqQQXorj0rpZmwNA41sho_idBjx8n47mWwvQCReX-ZyN1fyUYw" alt="Custom Image 1" style="width: 80px; height: 40px; border-radius: 12px; object-fit: cover;" />
   </a>
    <a href="https://github.com/talha469/Documentation/tree/main/SonarQube" target="_blank" rel="noreferrer"> 📑 Setup Guide</a> | 
@@ -40,7 +40,7 @@ SonarQube
 
   Llama 3 Meta AI
 <p>
-  <a href="https://github.com/your-repository" target="_blank" rel="noreferrer">
+  <a href="https://github.com/talha469" target="_blank" rel="noreferrer">
     <img src="https://ollama.com/public/blog/meta-ollama-llama3.png" alt="Custom Image 1" style="width: 80px; height: 40px; border-radius: 12px; object-fit: cover;" />
   </a>
    <a href="https://github.com/talha469/Documentation/tree/main/Llama3" target="_blank" rel="noreferrer"> 📑 Setup Guide</a> | 
