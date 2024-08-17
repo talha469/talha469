@@ -52,8 +52,7 @@ SonarQube
   <a href="https://github.com/talha469" target="_blank" rel="noreferrer">
     <img src="https://book.git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Custom Image 1" style="width: 40px; height: 40px; border-radius: 12px; object-fit: cover;" />
   </a>
-   <a href="https://github.com/talha469/Documentation/tree/main/GitHub" target="_blank" rel="noreferrer"> 📑 Setup Guide</a> | 
-  <a href="https://github.com/your-repository/demo-link" target="_blank" rel="noreferrer"> 🌐 Live Demo</a>
+   <a href="https://github.com/talha469/Documentation/tree/main/GitHub" target="_blank" rel="noreferrer"> 📑 Setup Guide</a>
 </p>
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
