@@ -58,7 +58,7 @@ SonarQube
   Docker
 <p>
   <a href="https://github.com/talha469" target="_blank" rel="noreferrer">
-    <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" alt="Custom Image 1" style="width: 40px; height: 80px; border-radius: 12px; object-fit: cover;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="Custom Image 1" style="width: 40px; height: 40px; border-radius: 12px; object-fit: cover;" />
   </a>
    <a href="https://github.com/talha469/Documentation/tree/main/Docker" target="_blank" rel="noreferrer"> 📑 Setup Guide</a>
 </p>
