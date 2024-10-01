@@ -2,7 +2,7 @@ Hi 🚴 My name is Muhammad Talha Arshad
 ======================================
 
 * 🌍  I'm based in Finland
-* ✉️  You can contact me at [talha@rapidlaunchers.com](mailto:talha@rapidlaunchers.com)
+* ✉️  You can contact me at [mtalha@rapidlaunchers.com](mailto:mtalha@rapidlaunchers.com)
 * 👨‍💻  I'm currently working on [Streamingly](http://streamingly.net/) as a CTO
 * 🚀  I'm currently working on [Rapid Launchers](http://rapidlaunchers.com/) as a Founder
 * 🧠  I'm learning Software Architecture
