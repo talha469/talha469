@@ -14,27 +14,28 @@ Microsoft Azure
     <a href="https://github.com/talha469" target="_blank" rel="noreferrer">
       <img src="https://github.com/talha469/talha469/blob/main/images.png?raw=true" alt="Custom Image 1" style="width: 80px; height: 20px; border-radius: 12px; object-fit: cover;" />
     </a>
-    <a href="https://github.com/talha469/Documentation/tree/main/Azure" target="_blank" rel="noreferrer"> 📑 Documentation</a> | 
+    <a href="https://github.com/talha469/Documentation/tree/main/Azure" target="_blank" rel="noreferrer"> 📑 Documentation</a>  
     <!--<a href="https://github.com/talha469/Documentation/blob/main/Common/comingSoon.md" target="_blank" rel="noreferrer"> 🌐 Live Demo</a> -->
 
   </p>
 
+<!--
   Apache Kafka
 <p>
   <a href="https://github.com/talha469" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*y-8NaBH83BMBjuzDj40SVw.jpeg" alt="Custom Image 1" style="width: 80px; height: 40px; border-radius: 12px; object-fit: cover;" />
   </a>
-  <a href="https://github.com/your-repository/documentation-link" target="_blank" rel="noreferrer"> 📑 Documentation</a> | 
-  <!--<a href="https://github.com/your-repository/demo-link" target="_blank" rel="noreferrer"> 🌐 Live Demo</a>-->
+  <a href="https://github.com/your-repository/documentation-link" target="_blank" rel="noreferrer"> 📑 Documentation</a> 
+  <a href="https://github.com/your-repository/demo-link" target="_blank" rel="noreferrer"> 🌐 Live Demo</a>
 </p>
-
+-->
 
 SonarQube
 <p>
   <a href="https://github.com/talha469" target="_blank" rel="noreferrer">
     <img src="https://lh3.googleusercontent.com/Gzn87UteQMOjYLVJd5MzPtve0lVx2UZEfzuWUqQQXorj0rpZmwNA41sho_idBjx8n47mWwvQCReX-ZyN1fyUYw" alt="Custom Image 1" style="width: 80px; height: 40px; border-radius: 12px; object-fit: cover;" />
   </a>
-   <a href="https://github.com/talha469/Documentation/tree/main/SonarQube" target="_blank" rel="noreferrer"> 📑 Setup Guide</a> | 
+   <a href="https://github.com/talha469/Documentation/tree/main/SonarQube" target="_blank" rel="noreferrer"> 📑 Setup Guide</a> 
   <!--<a href="https://github.com/your-repository/demo-link" target="_blank" rel="noreferrer"> 🌐 Live Demo</a>-->
 </p>
 
@@ -43,14 +44,14 @@ SonarQube
   <a href="https://github.com/talha469" target="_blank" rel="noreferrer">
     <img src="https://ollama.com/public/blog/meta-ollama-llama3.png" alt="Custom Image 1" style="width: 80px; height: 40px; border-radius: 12px; object-fit: cover;" />
   </a>
-   <a href="https://github.com/talha469/Documentation/tree/main/Llama3" target="_blank" rel="noreferrer"> 📑 Setup Guide</a> | 
+   <a href="https://github.com/talha469/Documentation/tree/main/Llama3" target="_blank" rel="noreferrer"> 📑 Setup Guide</a>  
   <!--<a href="https://github.com/your-repository/demo-link" target="_blank" rel="noreferrer"> 🌐 Live Demo</a>-->
 </p>
 
   Git | GitHub | Gitlab | Bitbucket
 <p>
   <a href="https://github.com/talha469" target="_blank" rel="noreferrer">
-    <img src="https://book.git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Custom Image 1" style="width: 40px; height: 40px; border-radius: 12px; object-fit: cover;" />
+    <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" alt="Custom Image 1" style="width: 40px; height: 40px; border-radius: 12px; object-fit: cover;" />
   </a>
    <a href="https://github.com/talha469/Documentation/tree/main/GitHub" target="_blank" rel="noreferrer"> 📑 Setup Guide</a>
 </p>
